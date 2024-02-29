@@ -9,9 +9,9 @@ tags = [
 categories = [
     "news"
 ]
-thumbnail = "/img/thumbs/0xdc.webp"
-featureImage = "new-blog-banner.webp"
-featureImageAlt = '0xDC logo'
+thumbnail = "/img/dc.webp"
+<!-- featureImage = "X.webp"
+featureImageAlt = 'X' -->
 +++
 
 Welcome to my first blog
@@ -24,7 +24,5 @@ I hope that you will like my content, feel free to get in touch!
 
 Feel free to follow me on:
 
-- GitHub : [https://github.com/dotdc](https://github.com/dotdc)
-- Mastodon : [https://hachyderm.io/@0xDC](https://hachyderm.io/@0xDC)
-- Twitter : [https://twitter.com/0xDC_](https://twitter.com/0xDC_)
-- LinkedIn : [https://www.linkedin.com/in/0xDC](https://www.linkedin.com/in/0xDC)
+- GitHub : [https://github.com/rebjan](https://github.com/rebjan)
+- LinkedIn : [https://www.linkedin.com/in/berjanb](https://www.linkedin.com/in/berjanb)
