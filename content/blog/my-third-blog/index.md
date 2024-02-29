@@ -7,11 +7,10 @@ tags = [
     "blog",  "observability", "kubernetes", "monitoring"
 ]
 categories = [
-    "news"
+    "news", "tech"
 ]
 thumbnail = "/img/dc.webp"
-<!-- featureImage = "X.webp"
-featureImageAlt = 'X' -->
+
 +++
 
 Welcome to my first blog
