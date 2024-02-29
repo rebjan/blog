@@ -1,14 +1,14 @@
-name = "0xDC"
+name = "AIRDW"
 license = "MIT"
-description = "A theme for 0xDC.me based on Hugo Clarity."
-homepage = "https://0xdc.me"
+description = "A theme for blog.air.mn based on Hugo Clarity."
+homepage = "https://blog.air.mn"
 tags = ["dark", "technical", "blog"]
 features = ["dark", "technical", "blog"]
 min_version = "0.91.0"
 
 [author]
   name = "Berjan B"
-  homepage = "https://0xdc.me"
+  homepage = "https://blog.air.mn"
 
 # Authors of Hugo Clarity
 original = [

@@ -22,7 +22,7 @@ Here's a few projects where I'm involved on GitHub:
 
 > [dotdc/dotdc.github.io](https://github.com/dotdc/dotdc.github.io)
 >
-> Files for 0xDC.me.
+> Files for blog.air.mn.
 
 > [dotdc/dotfiles](https://github.com/dotdc/dotfiles)
 >
