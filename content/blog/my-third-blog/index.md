@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "Welcome to my third blog!"
 date = "2022-09-02"
 description = "I'm starting a technical blog to share my work!"

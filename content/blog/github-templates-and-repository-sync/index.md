@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "GitHub templates and repository sync"
 date = "2023-12-30"
 description = "In this article, I will explain how to create GitHub templates, and how to sync the generated repositories with their template using a GitHub action."

@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "Service Level Objectives made easy with Sloth and Pyrra"
 date = "2023-06-29"
 description = "In this article, I will explain the main differences between Sloth and Pyrra, two projects that aim to help you create and manage Service Level Objectives."

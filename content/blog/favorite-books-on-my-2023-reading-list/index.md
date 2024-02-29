@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "Favorite books on my 2023 reading list"
 date = "2024-01-18"
 description = "In this article, I'll share my favorite books related to tech that I read in 2023."

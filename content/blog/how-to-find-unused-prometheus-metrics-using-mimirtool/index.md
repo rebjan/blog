@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "How to find unused Prometheus metrics using mimirtool"
 date = "2023-04-03"
 description = "In this article, I will explain how I used mimirtool to identify which metrics were used on the platform, and which wasn't."

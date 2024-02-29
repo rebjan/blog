@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "Inside Powder’s observability stack"
 date = "2023-01-06"
 description = "How to monitor Kubernetes with Grafana and Prometheus: Inside Powder’s observability stack"

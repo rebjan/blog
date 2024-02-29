@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "Entering the world of additive manufacturing"
 date = "2023-08-23"
 description = "I recently entered the world of additive manufacturing, more commonly known as 3D printing. In this article, I will explain what brought me there, and what were the steps required to be able to print things!"

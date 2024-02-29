@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "Time to strengthen your password hygiene!"
 date = "2023-01-05"
 description = "How to strengthen your password hygiene after the LastPass breach."

@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "Is your Kubernetes API Server exposed?"
 date = "2022-07-06"
 description = "Is your Kubernetes API Server exposed?"

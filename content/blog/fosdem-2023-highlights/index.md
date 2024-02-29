@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "FOSDEM 2023 Highlights"
 date = "2023-02-06"
 description = "FOSDEM 2023 Highlights"

@@ -10,11 +10,11 @@
 
   {{- if $showDate }}
   {{ if eq .Parent.Type "blog" }}
-    <a href='/about' title="David Calvert">
+    <a href='/about' title="Berjan B">
       <img loading="lazy" decoding="async" class="author" src="/img/dc.webp"/>
     </a>
     <div class="post_date">
-      David Calvert<br>
+      Berjan B<br>
       <span class="grey">{{ .Date.Format (default "January 2, 2006" $.Site.Params.dateFormat) -}}</span>
     </div>
     {{- $scratch.Set "writeSeparator" true }}

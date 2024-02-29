@@ -7,7 +7,7 @@ features = ["dark", "technical", "blog"]
 min_version = "0.91.0"
 
 [author]
-  name = "David Calvert"
+  name = "Berjan B"
   homepage = "https://0xdc.me"
 
 # Authors of Hugo Clarity

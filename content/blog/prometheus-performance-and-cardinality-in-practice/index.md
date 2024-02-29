@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "Prometheus’ performance and cardinality in practice"
 date = "2023-04-25"
 description = "In this article, I will explain how I analyzed and configured my Prometheus setup in order to significantly reduce its resource usage and worked around cardinality issues."

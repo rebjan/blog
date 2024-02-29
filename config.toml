@@ -1,13 +1,13 @@
 baseurl = "https://blog.air.mn/"
 #baseurl = "http://localhost:1313/"
 languageCode = "en-us"
-title = '0xDC.me'
+title = 'blog.air.mn'
 theme = "0xDC"
 paginate = 5
 
 [params]
   author = "Berjan B"
-  twitter = "0xDC_"
+  twitter = "berjanb"
   largeTwitterCard = true
   description = "My Blog"
   enforceDarkMode = true

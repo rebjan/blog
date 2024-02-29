@@ -1,5 +1,5 @@
 +++
-author = "David Calvert"
+author = "Berjan B"
 title = "A set of modern Grafana dashboards for Kubernetes"
 date = "2022-06-21"
 description = "A set of modern Grafana dashboards for Kubernetes"
