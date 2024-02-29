@@ -4,7 +4,7 @@ title = "Welcome to my first blog!"
 date = "2024-02-29"
 description = "I'm starting a technical blog to share my work!"
 tags = [
-    "blog"
+    "blog",  "observability", "kubernetes", "monitoring"
 ]
 categories = [
     "news"
